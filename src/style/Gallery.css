@@ -1,0 +1,19 @@
+.Gallery1
+{
+    display: flex;
+    margin-top: 40rem;
+    font-size: 15pt;
+    
+}
+.Gallery
+{
+    display: flex;
+    margin-top: 3rem;
+    
+}
+
+.gallery{
+width: 210px;
+height: 85px;
+padding-left: 3rem;
+}

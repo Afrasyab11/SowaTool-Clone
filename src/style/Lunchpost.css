@@ -1,0 +1,62 @@
+.LP-dv {
+
+    padding-top: 8rem;
+    height: fit-content;
+    width: 100%;
+}
+
+.first-dv {
+    width: 30rem;
+    height: auto;
+    float: left;
+    margin-left: 1rem;
+
+}
+
+.LP-img {
+    width: 634px;
+    height: 317px;
+}
+
+.second-dv {
+    width: 30rem;
+    height: auto;
+    float: left;
+    margin-left: 12.5rem;
+
+}
+
+.LP-a {
+    text-decoration: none;
+    font-weight: bolder;
+    opacity: 0.6;
+}
+
+.LP-PG {
+    width: 35rem;
+    font-size: 10.5pt;
+}
+
+.LP-PG2 {
+    width: 40rem;
+    font-size: 10.5pt;
+}
+
+.LP-btn2 {
+    width: 7rem;
+    height: 4rem;
+    border-radius: 1rem;
+    background-color: #f4ae1a;
+    font-weight: bold;
+    border-style: none;
+}
+
+.LP-btn {
+    width: 8rem;
+    height: 4rem;
+    border-radius: 1rem;
+    background-color: #f4ae1a;
+    font-weight: bold;
+    border-style: none;
+    margin-top: 1.7rem;
+}

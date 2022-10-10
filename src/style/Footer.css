@@ -1,0 +1,79 @@
+.contact-detail {
+    width: 100%;
+    height: 6rem;
+    background-color: #251f1f;
+    margin-top: 7rem;
+    display: flex;
+    align-items: center;
+}
+
+.CT-number {
+
+    color: #f4ae1a;
+    font-size: 20pt;
+    margin-left: 4.5rem;
+}
+
+.CT-time {
+    color: white;
+    padding-top: .6rem;
+    margin-left: .5rem;
+}
+
+.CT-A {
+    width: 3.5rem;
+    height: 3.5rem;
+    margin-left: 43rem;
+    /* background-color: white; */
+    border-radius: .2rem;
+    text-decoration: none;
+
+}
+
+.CT-a {
+
+ width: 30px;
+ height: 30px;
+padding-top: .8rem;
+}
+
+
+
+.footer-card {
+
+    width: 100%;
+    height: 20.3rem;
+    background-color: #f4ae1a;
+    /* padding-left: 2rem; */
+
+
+}
+.ft-first-card
+{
+    margin-left: 2rem;
+}
+
+.Account-card {
+    float: left;
+    width: 15%;
+   
+    margin-left: 3rem;
+    margin-top: 2rem;
+    height: 250px;
+}
+
+
+
+.Acnt-card {
+
+    text-decoration: none;
+    color: black;
+    font-size: 10.5pt;
+    padding: 1.5px;
+    width: 40px;
+    height: 40px;
+}
+
+.Acnt-header {
+    color: #428bca;
+}
